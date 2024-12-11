@@ -1,6 +1,8 @@
 ---
-title: Welcome to my blog
+title: This is a title
 ---
 
-This is a page
 # This is a heading
+Some text goes here
+##  This is another heading
+Some more text goes here
